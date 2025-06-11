@@ -9,6 +9,8 @@ We also provide a list af theoritical materials and tools that you will need in 
 
 RESEARCH AND IDEA
 
-The theoritical part of our project was to research an ongoing crisis ¨ARCHITECTURE IN THE AGE OF CRISIS¨ around the Mediterranean basin or in Sub-Saharan Africa.
+  The theoritical part of our project was to research an ongoing crisis ¨ARCHITECTURE IN THE AGE OF CRISIS¨ around the Mediterranean basin or in Sub-Saharan Africa.
 After a small research, we decided to suggest a solution to the problem of lack of clean drinkable water in the area of Chad. 
 The proposal of this open project can be created using topical materials such as wood, topical bamboo pieces grom the near tropical area, and clay in order to waterproof and protect materials for a longer lifespan.
+
+  However this design can stand in other climates as well, such as the Mediterranean countries, especially in the south, where the need of water is more important, and it can be collected during the raining seasons.
