@@ -84,7 +84,7 @@ You may copy, modify, and redistribute the material under the same license, even
 
 ## 📚 Contributor Docs
 
-- Conceptual background & crisis research in [`docs/theory.pdf`](./docs/) (optional to create)
+- Conceptual background & crisis research in [`docs/theory.pdf`](./docs/) 
 - Technical workflow in [`design/`](./design/)
 
 ## 📖 User Docs
