@@ -60,6 +60,8 @@ You may copy, modify, and redistribute the material under the same license, even
 - Output valve system
 - Base fixation via plywood pallet
 
+- ![Image](https://github.com/user-attachments/assets/3eadfa3f-4f9e-4ed8-8f32-9493a263d48a)
+
 ## 🌐 Contributor Channels
 
 - GitHub Issues
