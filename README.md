@@ -23,8 +23,7 @@ The full set of construction steps, connection details, and material layering in
 - [See full list with dimensions and specs in `design/BoM.pdf`](./design/)
 
 
-<!-- Uploading "Image1_000.png"... -->
-
+![Image](https://github.com/user-attachments/assets/b9aa597f-94d9-410b-88df-48d6ce7aa816)
 
 ## 👩‍💻 Your Contributors
 
