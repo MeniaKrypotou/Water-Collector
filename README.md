@@ -23,7 +23,7 @@ The full set of construction steps, connection details, and material layering in
 - [See full list with dimensions and specs in `design/BoM.pdf`](./design/)
 
 
-![Water Collector Render](./photos/render01.jpg)
+<!-- Uploading "Image1_000.png"... -->
 
 
 ## 👩‍💻 Your Contributors
