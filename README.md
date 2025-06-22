@@ -44,7 +44,7 @@ You are free to use, adapt, and redistribute with proper credit.
 
 ## 🙋‍♀️ Authors & Contributors
 
-This project was developed by [Menia Krypotou](https://github.com/MeniaKrypotou) in the context of the course **"Architecture in Times of Crisis"**.
+This project was developed by [Menia Krypotou](https://github.com/MeniaKrypotou) and Katerina Bokou in the context of the course Open Design **"Architecture in Times of Crisis"** in the Univesity of Volos, Faculty of Architectural Engineering.
 
 Open to contributions, suggestions, and forks!
 
