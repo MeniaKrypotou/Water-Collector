@@ -22,6 +22,10 @@ The full set of construction steps, connection details, and material layering in
 - **Clay (optional) for sealing/stabilization**
 - [See full list with dimensions and specs in `design/BoM.pdf`](./design/)
 
+
+![Water Collector Render](./photos/render01.jpg)
+
+
 ## 👩‍💻 Your Contributors
 
 - Menia Krypotou
