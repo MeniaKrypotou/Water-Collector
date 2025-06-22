@@ -1,16 +1,72 @@
-INTRODUCTION TO THE PROJECT
+# 💧 Open Water Collector Project
 
-  The current Project is about an Open-Source Design that examines a solution of a Water Collector Construction!
-Below you will be able to find the technical drawings of our project in .pdf, .dwg and .3dm forms.
-We also provide a list af theoritical materials and tools that you will need in order to create a 1/10 model of the design.
+A low-tech, open-source water collection structure designed for regions suffering from water scarcity — such as Chad, Sub-Saharan Africa, and Mediterranean areas. The system is suitable for local fabrication using bamboo, clay, and PVC materials.
 
-![Image](https://github.com/user-attachments/assets/f98a36e6-c77e-4f96-ba8f-1e316773e641)
+> This is a theoretical project developed as part of an architectural design course. A scale model (1:10) is being constructed to demonstrate the concept.
 
+---
 
-RESEARCH AND IDEA
+## 🔍 What Is It?
 
-  The theoritical part of our project was to research an ongoing crisis ¨ARCHITECTURE IN THE AGE OF CRISIS¨ around the Mediterranean basin and in the Sub-Saharan Africa.
-After a small research, we decided to suggest a solution to the problem of lack of clean water in the area of Chad, Africa. 
-The proposal of this open project can be created using topical materials such as wood, topical bamboo pieces grom the near tropical area, and clay in order to waterproof and protect materials for a longer lifespan.
+A simple water collection unit made from a waterproof PVC-coated canvas structure mounted on a bamboo frame. Rainwater is funneled into a 1000L PVC tank through a bamboo pipe. The structure is lightweight, locally sourced, and easily replicable.
 
-  However this design can stand in other climates as well, such as the Mediterranean countries, especially in the south, where the need of water is more important, and it can be collected during the raining seasons.
+---
+
+## 🛠️ How It Works
+
+- **Bamboo frame** holds a tensile waterproof fabric
+- **Rainwater** is collected and directed into the tank
+- **Output valve** lets users access clean water
+- **Mounted** on a standard wooden pallet
+- **All joinery** done with rope knots or metal brackets
+
+---
+
+## 📦 Folder Structure
+
+| Folder         | Description                                 |
+|----------------|---------------------------------------------|
+| `design/`      | .dwg, .obj, and .pdf files of the full design |
+| `assembly/`    | Step-by-step assembly instructions (PDF)    |
+| `scale-model/` | Resources and instructions for the 1:10 model |
+| `docs/`        | Contributor and user documentation          |
+| `poster/`      | Visual presentation of the project          |
+| `BOM/`         | Bill of Materials                           |
+
+---
+
+## 🔗 Open Source & Licensing
+
+All files are shared under the **CERN Open Hardware License v2 – Strongly Reciprocal** (CERN-OHL-S v2).  
+You are free to use, adapt, and redistribute with proper credit.
+
+---
+
+## 🙋‍♀️ Authors & Contributors
+
+This project was developed by [Menia Krypotou](https://github.com/MeniaKrypotou) in the context of the course **"Architecture in Times of Crisis"**.
+
+Open to contributions, suggestions, and forks!
+
+---
+
+## 📁 Source Files Preview
+
+> See the [`design/`](./design/) folder for all CAD files, models, and diagrams.
+
+- `WaterCollector.dwg` – AutoCAD drawing
+- `WaterCollector.obj` – 3D model
+- `ExplodedView.pdf` – Technical breakdown
+- `PVC_mount.pdf` – Mounting instructions
+
+---
+
+## 📷 Scale Model
+
+The project will be built as a **1:10 scale model**, with mock materials. Photos and documentation will be added in [`scale-model/`](./scale-model/).
+
+---
+
+## 🚰 Why Chad?
+
+Chad has one of the lowest access rates to safe water in Africa. Combined with refugee pressure and climate change, our proposal offers a small-scale, practical response to this ongoing crisis.
