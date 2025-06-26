@@ -98,6 +98,15 @@ You may copy, modify, and redistribute the material under the same license, even
 - Step-by-step diagrams and photos in [`scale-model/photos/`](./scale-model/photos/)
 - Reference images in [`photos/`](./photos/)
 
+## 🪚 Scale Model Manual
+
+![Image](https://github.com/user-attachments/assets/2de46ceb-2b6b-472b-84cd-0b6fc263ea93)
+
+This section includes a detailed PDF manual describing how to build a 1:10 physical scale model of the water collector design.  
+It outlines all necessary materials, tools, and step-by-step instructions to replicate the structure as a miniature.  
+Ideal for presentations, testing, or exhibitions where a physical representation of the design is needed.
+
+📂 [View the scale model manual and files](scale-model/)
 ---
 
 📢 *This project is part of an academic exploration into open design in crisis response. Developed under the theme “Architecture in Times of Crisis” – Mediterranean and Sub-Saharan Focus.*
