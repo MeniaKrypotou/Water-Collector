@@ -100,7 +100,7 @@ You may copy, modify, and redistribute the material under the same license, even
 
 ## 🪚 Scale Model Manual
 
-![Image](https://github.com/user-attachments/assets/2de46ceb-2b6b-472b-84cd-0b6fc263ea93)
+![Image](https://github.com/user-attachments/assets/c0448c5d-1466-4b9a-89e9-7746f3832b22)
 
 This section includes a detailed PDF manual describing how to build a 1:10 physical scale model of the water collector design.  
 It outlines all necessary materials, tools, and step-by-step instructions to replicate the structure as a miniature.  
